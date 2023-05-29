@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Tenko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tenko-Star)](https://github.com/Tenko-Star)
+[![Tenko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tenko-Star&hide=prs,issues,contribs&show_icons=true&hide_border=true)](https://github.com/Tenko-Star)
 
-[![Tenko's GitHub langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tenko-Star)](https://github.com/Tenko-Star)
+[![Tenko's GitHub langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tenko-Star&layout=compact&hide_border=true)](https://github.com/Tenko-Star)
